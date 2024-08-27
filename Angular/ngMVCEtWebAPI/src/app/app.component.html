@@ -1,0 +1,20 @@
+<div>
+  <button (click)="TestPublic()">Test Public</button>
+  <button (click)="TestPrivate()">Test Private</button>
+</div>
+
+<div id="Login">
+  <h3>Connexion</h3>
+  <input type="text" name="loginUsername" id="loginUsername" placeholder="Nom d'utilisateur" [(ngModel)]="loginUsername">
+  <input type="password" name="loginPassword" id="loginPassword" placeholder="Mot de passe" [(ngModel)]="loginPassword">
+  <button (click)="Login()">Se connecter</button>
+</div>
+
+<div id="Register">
+  <h3>Inscription</h3>
+  <input type="text" placeholder="Nom d'utilisateur" [(ngModel)]="registerUsername">
+  <input type="text" placeholder="exemple@mail.com" [(ngModel)]="registerEmail">
+  <input type="password" placeholder="Mot de passe" [(ngModel)]="registerPassword">
+  <input type="password" placeholder="Confirmer le mot de passe" [(ngModel)]="registerPasswordConfirm">
+  <button (click)="Register()">S'inscrire</button>
+</div>

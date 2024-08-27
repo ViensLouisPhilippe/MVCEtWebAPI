@@ -1,54 +1,78 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\",
+  "WorkspaceRootPath": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\webapi\\dtos\\loginsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\loginsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\webapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Migrations\\20240823202427_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Migrations\\20240823202427_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|solutionrelative:models\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\models\\models\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|solutionrelative:models\\models\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\dtos\\loginsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\loginsuccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2CD2E3B-FA66-4AA2-A33F-30F65B49FE5A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\mvcetwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|solutionrelative:models\\models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|c:\\users\\2034421\\downloads\\mvcetwebapi\\mvcetwebapi\\mvcetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0CB905B0-7D1C-46C0-B16A-8B057F2F8EF5}|MVCEtWebAPI\\MVCEtWebAPI.csproj|solutionrelative:mvcetwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|c:\\users\\2034421\\desktop\\mvcetwebapi\\mvcetwebapi\\models\\migrations\\20240823202427_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69FD19EC-0E70-42CD-8DAA-734719C1FC91}|Models\\Models.csproj|solutionrelative:models\\migrations\\20240823202427_initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,54 +82,80 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginSuccess.cs",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\LoginSuccess.cs",
-              "RelativeDocumentMoniker": "WebApi\\DTOs\\LoginSuccess.cs",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\LoginSuccess.cs",
-              "RelativeToolTip": "WebApi\\DTOs\\LoginSuccess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:42:15.416Z",
+              "WhenOpened": "2024-08-27T21:35:34.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginDTO.cs",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\LoginDTO.cs",
-              "RelativeDocumentMoniker": "WebApi\\DTOs\\LoginDTO.cs",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\LoginDTO.cs",
-              "RelativeToolTip": "WebApi\\DTOs\\LoginDTO.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAowAwAAAADAAAA",
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Models\\TestData.cs",
+              "RelativeDocumentMoniker": "Models\\Models\\TestData.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Models\\TestData.cs",
+              "RelativeToolTip": "Models\\Models\\TestData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:42:01.843Z",
+              "WhenOpened": "2024-08-27T21:29:42.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RegisterDTO.cs",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\RegisterDTO.cs",
-              "RelativeDocumentMoniker": "WebApi\\DTOs\\RegisterDTO.cs",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\RegisterDTO.cs",
-              "RelativeToolTip": "WebApi\\DTOs\\RegisterDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCEtWebAPI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCEtWebAPI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:39:18.484Z",
+              "WhenOpened": "2024-08-27T19:52:09.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WebApi",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\WebApi.csproj",
+              "DocumentIndex": 7,
+              "Title": "WebApi.http",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.http",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\WebApi.http",
+              "RelativeToolTip": "WebApi\\WebApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-27T19:39:43.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WebApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\WeatherForecast.cs",
+              "RelativeToolTip": "WebApi\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:39:42.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\WebApi.csproj",
               "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\WebApi.csproj",
               "RelativeToolTip": "WebApi\\WebApi.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -114,11 +164,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA9wCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T20:31:21.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowF4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T20:35:08.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "MVCEtWebAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\appsettings.json",
               "RelativeToolTip": "MVCEtWebAPI\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -127,94 +203,113 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T19:52:13.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\appsettings.json",
               "RelativeDocumentMoniker": "WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\appsettings.json",
               "RelativeToolTip": "WebApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-23T20:35:59.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:35:59.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Program.cs",
-              "RelativeToolTip": "WebApi\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MVCEtWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\Program.cs",
+              "RelativeToolTip": "MVCEtWebAPI\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:35:08.402Z",
+              "WhenOpened": "2024-08-23T20:17:54.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "WebApi\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "WebApi\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAD4AAAAAAAAAAAAgwGEAAAAJAAAA",
+              "DocumentIndex": 13,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "WebApi\\DTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "WebApi\\DTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:31:21.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:39:18.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "20240823202427_initiale.cs",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Migrations\\20240823202427_initiale.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Migrations\\20240823202427_initiale.cs",
               "RelativeDocumentMoniker": "Models\\Migrations\\20240823202427_initiale.cs",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Migrations\\20240823202427_initiale.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Migrations\\20240823202427_initiale.cs",
               "RelativeToolTip": "Models\\Migrations\\20240823202427_initiale.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:24:27.825Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:24:27.825Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MVCEtWebAPI",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
+              "DocumentIndex": 12,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WebApi\\DTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "WebApi\\DTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T20:42:01.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MVCEtWebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
               "RelativeDocumentMoniker": "MVCEtWebAPI\\MVCEtWebAPI.csproj",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI.csproj",
               "RelativeToolTip": "MVCEtWebAPI\\MVCEtWebAPI.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T20:18:17.57Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Models",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Models.csproj",
-              "RelativeDocumentMoniker": "Models\\Models.csproj",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Models.csproj",
-              "RelativeToolTip": "Models\\Models.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-23T20:17:22.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:18:17.57Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "MVCEtWebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\2034421\\Downloads\\MVCEtWebAPI\\MVCEtWebAPI\\MVCEtWebAPI\\Program.cs",
-              "RelativeToolTip": "MVCEtWebAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "LoginSuccess.cs",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\LoginSuccess.cs",
+              "RelativeDocumentMoniker": "WebApi\\DTOs\\LoginSuccess.cs",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\WebApi\\DTOs\\LoginSuccess.cs",
+              "RelativeToolTip": "WebApi\\DTOs\\LoginSuccess.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T20:17:54.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T20:42:15.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Models.csproj",
+              "DocumentMoniker": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Models.csproj",
+              "RelativeDocumentMoniker": "Models\\Models.csproj",
+              "ToolTip": "C:\\Users\\2034421\\Desktop\\MVCEtWebAPI\\MVCEtWebAPI\\Models\\Models.csproj",
+              "RelativeToolTip": "Models\\Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-23T20:17:22.602Z"
             }
           ]
         }

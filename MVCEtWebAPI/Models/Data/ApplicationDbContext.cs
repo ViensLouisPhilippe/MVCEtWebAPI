@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.EntityFrameworkCore;
+using Models.Models;
 
 namespace MVCEtWebAPI.Data
 {
@@ -9,5 +11,6 @@ namespace MVCEtWebAPI.Data
             : base(options)
         {
         }
+        public DbSet<TestData> TestDatas { get; set; } = default!;
     }
 }
